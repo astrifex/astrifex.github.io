@@ -1,1 +1,1 @@
-/home/travis/build/astrifex/astrifex/tmp/uglify_jsfilter-tmp_dest_dir-hJ6wfSXd.tmp/astrifex.js
+/home/travis/build/astrifex/astrifex/tmp/uglify_jsfilter-tmp_dest_dir-JvJAYLqs.tmp/astrifex.js
